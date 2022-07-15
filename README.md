@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NathanPouliquen
 - 👀 I’m interested in Marine Technologies.
-- 🌱 I’m currently learning Accoustic and optic underwater propagation.
+- 🌱 I’m currently learning Accoustic and optic underwater propagation. Study contract with IFREMER.
 - 💞️ I’m looking to collaborate on the developement of underwater technologies or analysis tools.
 - 📫 How to reach me :
   - www.linkedin.com/in/nathan-pouliquen
